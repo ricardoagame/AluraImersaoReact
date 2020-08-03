@@ -1,0 +1,11 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "nome categ",
+            "descricao": "descricao categ",
+            "cor": "#cbd1ff"
+
+        }
+    ]
+}
